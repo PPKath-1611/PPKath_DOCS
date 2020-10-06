@@ -33,3 +33,17 @@ int main()
     printf("Survivor is %d", q.data[q.front]);   /* To get the Survivor which is at front */
     return 0;
 }
+
+/************   OUTPUT     ******************/
+
+Enter number of People:
+6
+How many people to skip:
+3
+Survivor is 1
+    
+Enter number of People:
+7
+How many people to skip:
+3
+Survivor is 4
